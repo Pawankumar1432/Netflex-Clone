@@ -41,14 +41,14 @@ body {
 }
 
 .language__drop__down option {
-  background-color: black;
+  background-color: #f5f1f1;
 }
 
 .dropdown__container {
   border: 1px solid white;
   padding: 0.4rem;
   border-radius: 4px;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(231, 216, 216, 0.4);
 }
 
 .signin__button {
